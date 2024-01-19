@@ -38,4 +38,4 @@ To run this project, follow these steps:
 
 
 ## Results
-The notebook includes a detailed analysis of model performance and accuracy metrics. We compare different models and discuss the best-performing model for this dataset. To read about my experience working on this project, go to my Medium article on it: https://medium.com/@alfredpmhofmann/project-1-predicting-california-housing-prices-using-machine-learning-d82e1998e2f7
+The notebook includes a detailed analysis of model performance and accuracy metrics. We compare different models and discuss the best-performing model for this dataset. To read about my experience working on this project, go to my Medium article on it: https://medium.com/@alfredpmhofmann/project-2-customer-segmentation-of-mall-customers-using-k-means-clustering-1b0bc02320a3
