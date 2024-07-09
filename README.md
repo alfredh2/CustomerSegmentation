@@ -1,4 +1,4 @@
-# Customer Segmentationn Project
+# Customer Segmentation Project
 
 ## Introduction
 Welcome to the Customer Segmentation Project! This project is a machine learning endeavor that uses K-Means clustering to form groups of similar customers. The core of this project is implemented in a Jupyter Notebook.
